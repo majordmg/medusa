@@ -45,3 +45,9 @@ Any commands issued after an implant is chosen, with the exception of the specia
 - implement direct execution of binaries and preload (e.g. fakelogonscreen, certify)
 - build dll for persistence
 - implement multi-stage proxy for relay attacks
+- egress channels:
+	... twitter
+	... linkedin
+	... wickr
+	... fb messenger
+	... github / lab
